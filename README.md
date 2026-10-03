@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of glutio/domainsso.** Not for installation: use [Packagist](https://packagist.org/packages/glutio/domainsso) or the [upstream repository](https://github.com/glutio/flarum.domainsso).
 
-**0** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/glutio-domainsso/tree/archive/v0.0.1) · License: `MIT`
+**1** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/glutio-domainsso/tree/archive/v0.0.1) · License: `MIT`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2024-03-24 | — | [Browse](https://github.com/flarchive/glutio-domainsso/tree/archive/v0.0.1) |
 
 Catalog entry: [packages/glutio-domainsso.json](https://github.com/flarchive/archive-index/blob/main/packages/glutio-domainsso.json)
 
